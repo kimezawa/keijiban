@@ -57,7 +57,7 @@ form {
 }
 
 input, textarea, select {
-    color: #999;
+    color: #333;
     border: 2px solid #dfdfdf;
     padding: 5px;
 }
@@ -72,7 +72,7 @@ label {
 
 .submit input {
     color: white;
-    background-color: #bfbfbf;
+    background-color: #999;
     border: 1px solid lightgray;
     border-bottom: 2px solid gray;
     border-radius: 5px;
